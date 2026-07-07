@@ -60,8 +60,4 @@ A simple Smart Todo application built using HTML, CSS, and JavaScript.
 Lokesh
 
 
-
-
-## Author
-
 Lokesh
